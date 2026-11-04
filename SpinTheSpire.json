@@ -1,0 +1,12 @@
+{
+  "id": "SpinTheSpire",
+  "name": "Spin the Spire",
+  "author": "Reznolf",
+  "description": "A custom run mode where characters, ascension, and modifiers are decided by prize wheels.",
+  "version": "0.2.3",
+  "min_game_version": "0.111.0",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": true
+}
